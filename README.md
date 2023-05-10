@@ -5,4 +5,4 @@
 
 
 # How to compile?
-- gcc main.exe -o main.exe -L lib -l libcurl lib\libjson-c.a
+- gcc main.c -o main.exe -L lib -l libcurl lib\libjson-c.a
